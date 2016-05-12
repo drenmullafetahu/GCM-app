@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "333802303872",
+    "project_id": "spheric-vine-129915"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333802303872:android:0939f4b908078879",
+        "android_client_info": {
+          "package_name": "com.gcm3.gcm.gcm30"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoO9f6x5fX_6UH5uRNXGl5OWPwZqfkxIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333802303872:android:76929f7eb1ea005b",
+        "android_client_info": {
+          "package_name": "com.gcm.gcm_30"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoO9f6x5fX_6UH5uRNXGl5OWPwZqfkxIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
